@@ -1,3 +1,7 @@
+Link to video:
+
+https://youtu.be/MP2s4wEmtgk
+
 # aidarbekaruzhanmidcalc
 
 A new Flutter application.
